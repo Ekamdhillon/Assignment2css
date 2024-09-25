@@ -1,0 +1,11 @@
+Persona 
+
+
+Name: Jagmeet Singh
+Location: Toronto, Ontario
+Age: 29
+Gender: Male
+Bio: Jagmeet is a junior marketing manager who enjoys staying on top of the latest digital trends. He spends his free time exploring Toronto's food scene and hiking with his dog.
+Purpose of Visit: Singh is visiting the website to find social media marketing tools that can help him manage campaigns more efficiently.
+Interests: Digital marketing, tech gadgets, social media, hiking, photography.
+Technology Preferences: Prefers using his smartphone and laptop for work. Intermediate tech skills.
